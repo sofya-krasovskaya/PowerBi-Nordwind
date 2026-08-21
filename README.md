@@ -14,6 +14,8 @@ BI-проект по комплексному анализу продаж, кл�
 
 ### Sales & Customer Analytics
 
+![Nordwind Sales & Customer Analysis](nordwind.sales.customers.png)
+
 В разделе представлены:
 
 - ключевые показатели продаж: суммарная выручка, количество заказов, количество проданных товаров, средняя стоимость заказа и количество клиентов-компаний
@@ -24,6 +26,8 @@ BI-проект по комплексному анализу продаж, кл�
 - выявление наиболее дорогих товаров
 
 ### Logistics & Inventory Analytics
+
+![Nordwind Logistics & Inventory Dashboard](nordwind.logistics.png)
 
 В разделе представлены:
 
