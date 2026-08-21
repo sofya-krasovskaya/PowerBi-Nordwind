@@ -1,4 +1,4 @@
-# Nordwind — Sales & Logistics Analytics
+# Nordwind – Sales & Logistics Analytics
 
 **Tools:** SQL · PostgreSQL · Power BI
 
